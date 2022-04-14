@@ -5,7 +5,7 @@ Currently source code is unavailable until the mod is out of beta with more feat
 
 Old releases are being removed to avoid confusion.
 
-**Features TODO**
+# **Features TODO**
 - Auto Salvage
 - Auto Sell
 - More auto things basically
